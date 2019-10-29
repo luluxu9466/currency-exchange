@@ -1,13 +1,16 @@
 # Tracking time series from 2005-2015 by months. 
 
-1) Currency exchange flux for USD, GPP, YEN, CYN & EURO.
+Intro [David]
+Data/code [Marvin]
 
-2) International Arrivals and Departures in the US 
+1) Currency exchange flux for USD, GPP, YEN, CYN & EURO. [Jean] 
 
-3) Unemployment (WW) 
+2) Currency vs. commodities (gold and silver) [Elvis]
 
-4) Expenditure on tourism (USA) 
+3) International Arrivals and Departures in the US [Lulu]
 
-5) GDP and % of GDP related to travel 
+4) Travel vs. GDP / % of GDP related to travel [Marvin]
 
-6) Population Growth (WW)
+5) GDP vs. unemployment [David]
+
+Sources
