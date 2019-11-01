@@ -7,10 +7,10 @@ Data/code [Marvin]
 
 2) Currency vs. commodities (gold and silver) [Elvis]
 
-3) International Arrivals and Departures in the US [Lulu]
+3) Currency vs. Travel [Lulu]
 
 4) Travel vs. GDP / % of GDP related to travel [Marvin]
 
-5) GDP vs. unemployment [David]
+5) GDP vs. unemployment [Elvis]
 
-Sources
+6) Sources [Lulu]
