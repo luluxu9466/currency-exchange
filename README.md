@@ -5,12 +5,10 @@ Data/code [Marvin]
 
 1) Currency exchange flux for USD, GPP, YEN, CYN & EURO. [Jean] 
 
-2) Currency vs. commodities (gold and silver) [Elvis]
+2) Currency vs. Travel [Lulu]
 
-3) Currency vs. Travel [Lulu]
+3) Travel vs. GDP / % of GDP related to travel [Marvin]
 
-4) Travel vs. GDP / % of GDP related to travel [Marvin]
-
-5) GDP vs. unemployment [Elvis]
+4) GDP vs. unemployment [Elvis]
 
 6) Sources [Lulu]
